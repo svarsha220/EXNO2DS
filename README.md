@@ -84,7 +84,7 @@ for p in graph.patches:
   height = p.get_height()
   graph.text(p.get_x()+p.get_width()/2., height + 0.1, height,ha="center")
 ```
-![image](https://github.com/Yamunaasri/EXNO2DS/assets/115707860/c0d268af-de9d-45aa-9d1b-ef12127d8425)
+![image](https://github.com/svarsha220/EXNO2DS/assets/115707860/c0d268af-de9d-45aa-9d1b-ef12127d8425)
 ```
 
 # RESULT
